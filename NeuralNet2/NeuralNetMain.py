@@ -1,9 +1,8 @@
 '''
 Created on Mar 25, 2017
-
 @author: ScottFenstermaker
 '''
-import numpy
+from numpy import *
 #scipi.special for the sigmoid function expit()
 import scipy.special
 import matplotlib.pyplot
